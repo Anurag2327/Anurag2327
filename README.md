@@ -16,9 +16,9 @@ Email Me ✉️ **pandeyanurag.work@gmail.com** For Collaboration/Project or Any
 
 <!-- Snake Game Repo View -->
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
+</div>
 
 #  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Anurag2327&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
